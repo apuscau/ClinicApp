@@ -12,7 +12,7 @@
 <body>
     <div id="page1" data-role="page">
         <header data-role="header" data-position="fullscreen">
-            <h1>See the changes?????</h1>
+            <h1>Header</h1>
             <a href="#page2" data-rel="button" class="ui-btn-right">Right</a>
         </header>
         <section data-role="content">
